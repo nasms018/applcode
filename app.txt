@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 코드수정함코드수정함2asdfasdfasdfaaa 타이거 타이거
 코드수정함코드수정함2asdfasdfasdfaaa 루쓰
+=======
+코드수정함코드수정함2asdfasdfasdfaaa 
+
+>>>>>>> to-rebase
 aaa
 
 
 apple
 bbbbbb
 eee
+타일러
