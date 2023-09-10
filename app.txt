@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 코드수정함코드수정함2asdfasdfasdfaaa 타이거 타이거
-=======
 코드수정함코드수정함2asdfasdfasdfaaa 루쓰
->>>>>>> to-merge
 aaa
 
 
